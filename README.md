@@ -32,7 +32,8 @@ plt.xlabel('Country', fontsize=14)
 plt.ylabel('GDP Per Capita', fontsize=14)
 plt.grid(True)
 plt.show()
-![download1](https://user-images.githubusercontent.com/90278106/136889266-5a300ef7-d913-4866-b2a5-1bae87fb50f3.png)
+
+![download2](https://user-images.githubusercontent.com/90278106/136889842-6bd3a70d-8b47-4831-9940-2da97353bd2f.png)
 
 # Bar Chart 
 ## In case their is alot of data which can not be represented well in vertical columns 
